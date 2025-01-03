@@ -4,7 +4,7 @@ Long short-term memory networks (LSTMs) are essentially a specialized type of a 
 
 In this notebook, an LSTM will be used to predict future Nvidia stocks. In fact, stock prediction is one of the most common examples where LSTMs are used in.
 
-Note that, obviously, the actual stock market is naturally unpredictable and such models are not expected to work well due to the complexity of market dynamics, which involve not only historical prices but also macroeconomic factors, geopolitical events, and market sentiment. 
+Note that the actual stock market is naturally unpredictable and such models are not expected to work well due to the complexity of market dynamics, which involve not only historical prices but also macroeconomic factors, geopolitical events, and market sentiment. 
 
 Nevertheless, LSTMs can provide useful insights and identify patterns in historical data, making them valuable tools for research and analysis in time-series forecasting.
 
