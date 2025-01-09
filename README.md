@@ -1,4 +1,4 @@
-# Nvidia (NVDA) Stock Prediction using LSTM
+# NVIDIA (NVDA) Stock Forecasting using LSTM
 
 Long short-term memory networks (LSTMs) are essentially a specialized type of a recurrent neural network (RNN) used to learn sequential data and time series. LSTMs are more powerful in many tasks compared to vanilla RNNs as the usage of long-term memory cell states mitigate the risk of the vanishing and/or exploding gradient problem commonly encountered with vanilla RNNs.
 
