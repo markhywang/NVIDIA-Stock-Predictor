@@ -1,8 +1,5 @@
-"""
-A series of helper functions used throughout the course.
+# This file is based off of: https://github.com/mrdbourke/pytorch-deep-learning
 
-If a function gets defined once and could be used over and over, it'll go in here.
-"""
 import torch
 import matplotlib.pyplot as plt
 import numpy as np
